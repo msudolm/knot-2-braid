@@ -73,6 +73,9 @@ If you use this code, please cite:
   author={M. Sudoł},
   school={University of Warsaw},
   year={2023},
-  note= {Master's Thesis}
+  note= {Master's Thesis, supervised by prof. Eryk Kopczyński}
 }
 ```
+
+## Acknowledgements
+This work was supervised by prof. Eryk Kopczyński.
